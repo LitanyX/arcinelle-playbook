@@ -38,7 +38,7 @@ export default function Home() {
         </div>
         <div className="pt-4">
           <a
-            href="#"
+            href="https://buy.stripe.com/4gM3cvgLuejReax6za6c000"
             className="inline-block px-8 py-4 bg-[#c9b8ff] text-[#0a0a0f] font-medium rounded-lg hover:bg-[#b8a5ff] transition-colors"
           >
             Get the Playbook — $39
